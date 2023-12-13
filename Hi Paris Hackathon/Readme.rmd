@@ -1,1 +1,1 @@
-hello
+Hackathon on the topic : Supply chain for sales predictions: the case of schneider electric
